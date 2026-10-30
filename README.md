@@ -134,7 +134,7 @@ An English company profile and product export website designed to support intern
 
 Exploring modern JavaScript frameworks and expanding my full-stack development skills.
 
----
+<!-- ---
 
 ## GitHub Stats
 
@@ -154,7 +154,7 @@ Exploring modern JavaScript frameworks and expanding my full-stack development s
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=madegiri&hide_border=true" alt="GitHub Activity Graph">
 
-</div>
+</div> -->
 
 ---
 
